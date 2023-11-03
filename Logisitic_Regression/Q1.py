@@ -113,7 +113,7 @@ def main():
     mp.grid(True)
     mp.savefig('L_in-Epoch.png', dpi=300)
 
-    mp.show()
+    # mp.show()
     
 if __name__ == "__main__":
     main()
